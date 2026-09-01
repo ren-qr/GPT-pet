@@ -1,4 +1,4 @@
-# GPT-薄荷糖
+# GPT-薄荷糖  Codex桌宠
 
 ![GPT-薄荷糖宣传图](assets/gpt-mint-candy-promo.png)
 
