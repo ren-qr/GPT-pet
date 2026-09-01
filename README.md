@@ -1,6 +1,25 @@
 # GPT-chan Codex 桌宠
 
+![GPT-chan promotional banner](assets/gpt-chan-promo.png)
+
 GPT-chan 是一款适用于 Codex 桌面版的自定义动态桌宠。
+
+## 动作预览
+
+| Idle | Waving |
+| --- | --- |
+| ![Idle animation](assets/previews/idle.gif) | ![Waving animation](assets/previews/waving.gif) |
+| Running | Waiting |
+| ![Running animation](assets/previews/running.gif) | ![Waiting animation](assets/previews/waiting.gif) |
+
+<details>
+<summary>查看完整动作图和 16 向视线预览</summary>
+
+![All animation frames](assets/previews/actions-contact-sheet.png)
+
+![16 look directions](assets/previews/look-directions.png)
+
+</details>
 
 ## 安装
 
