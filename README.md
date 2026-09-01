@@ -1,8 +1,8 @@
-# GPT-chan Codex 桌宠
+# GPT-薄荷糖
 
-![GPT-chan promotional banner](assets/gpt-chan-promo.png)
+![GPT-薄荷糖宣传图](assets/gpt-mint-candy-promo.png)
 
-GPT-chan 是一款适用于 Codex 桌面版的自定义动态桌宠。
+薄荷糖是一款适用于 Codex 桌面版的自定义动态桌宠，灵感来自 GPT 早期清新、醒目的绿色系视觉。
 
 ## 动作预览
 
@@ -30,22 +30,22 @@ GPT-chan 是一款适用于 Codex 桌面版的自定义动态桌宠。
 ```bash
 git clone https://github.com/ren-qr/GPT-pet.git
 mkdir -p ~/.codex/pets
-cp -R GPT-pet/gpt-chan ~/.codex/pets/gpt-chan
+cp -R GPT-pet/mint-candy ~/.codex/pets/mint-candy
 ```
 
-完成后重启 Codex，在桌宠设置中选择 **GPT-chan**。
+完成后重启 Codex，在桌宠设置中选择 **薄荷糖**。
 
 ### 手动安装
 
 1. 下载本仓库的 ZIP 文件并解压。
 2. 在 Finder 中打开 `~/.codex/pets/`；目录不存在时请先创建。
-3. 将完整的 `gpt-chan` 文件夹复制到 `~/.codex/pets/`。
-4. 重启 Codex，在桌宠设置中选择 **GPT-chan**。
+3. 将完整的 `mint-candy` 文件夹复制到 `~/.codex/pets/`。
+4. 重启 Codex，在桌宠设置中选择 **薄荷糖**。
 
 安装后的目录结构：
 
 ```text
-~/.codex/pets/gpt-chan/
+~/.codex/pets/mint-candy/
 ├── pet.json
 └── spritesheet.webp
 ```
