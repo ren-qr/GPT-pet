@@ -1,6 +1,15 @@
 # GPT-薄荷糖  Codex桌宠
 
-![GPT-薄荷糖宣传图](assets/gpt-mint-candy-promo.png)
+![GPT-薄荷糖双海报滑动展示](assets/gpt-mint-candy-promo-carousel.gif)
+
+<details>
+<summary>查看高清宣传图</summary>
+
+![薄荷糖桌宠工作海报](assets/gpt-mint-candy-promo.png)
+
+![薄荷糖全身设定图](assets/gpt-mint-candy-promo-v2.png)
+
+</details>
 
 薄荷糖是一款适用于 Codex 桌面版的自定义动态桌宠，灵感来自 GPT 早期清新、醒目的绿色系视觉。
 
