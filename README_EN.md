@@ -1,4 +1,4 @@
-# Minty / Codex Desktop Pet
+# GPT-chan:Minty / Codex Desktop Pet
 
 [中文](README.md) | [English](README_EN.md)
 
