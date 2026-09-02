@@ -1,5 +1,7 @@
 # GPT娘-薄荷糖  /Codex桌宠
 
+[中文](README.md) | [English](README_EN.md)
+
 ![GPT-薄荷糖双海报滑动展示](assets/gpt-mint-candy-promo-carousel.gif)
 
 <details>
